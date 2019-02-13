@@ -1,0 +1,28 @@
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.UnitTests.dll
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.UnitTests.pdb
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.dll
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.pdb
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\Moq.dll
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.exe
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.pdb
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Fareed\Documents\Visual Studio 2015\Projects\VendingMachine\VendingMachine.UnitTests\bin\Debug\Moq.xml
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.UnitTests.dll
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.UnitTests.pdb
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\Moq.dll
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.exe
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.pdb
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\VendingMachine.exe.config
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\bin\Debug\Moq.xml
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.csprojAssemblyReference.cache
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.csproj.CopyComplete
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.dll
+C:\Users\faree\source\repos\VendingMachine\VendingMachine.UnitTests\obj\Debug\VendingMachine.UnitTests.pdb
